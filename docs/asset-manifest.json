@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/hfcl-react-bot/static/css/main.c1c95f85.css",
+    "main.js": "/hfcl-react-bot/static/js/main.18f25ed9.js",
+    "static/js/787.df789a05.chunk.js": "/hfcl-react-bot/static/js/787.df789a05.chunk.js",
+    "static/media/bg_Gif.gif": "/hfcl-react-bot/static/media/bg_Gif.1b4f95650000e9002f0b.gif",
+    "static/media/boticon.png": "/hfcl-react-bot/static/media/boticon.270048d2cfcd500b0602.png",
+    "static/media/guy.jpg": "/hfcl-react-bot/static/media/guy.ef61ea00a761ff759928.jpg",
+    "static/media/bot.jpg": "/hfcl-react-bot/static/media/bot.524c8ccc1ecc2215653c.jpg",
+    "index.html": "/hfcl-react-bot/index.html",
+    "main.c1c95f85.css.map": "/hfcl-react-bot/static/css/main.c1c95f85.css.map",
+    "main.18f25ed9.js.map": "/hfcl-react-bot/static/js/main.18f25ed9.js.map",
+    "787.df789a05.chunk.js.map": "/hfcl-react-bot/static/js/787.df789a05.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1c95f85.css",
+    "static/js/main.18f25ed9.js"
+  ]
+}
